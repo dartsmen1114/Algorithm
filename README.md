@@ -14,7 +14,7 @@
 ## 循序渐进第一步
 
 ### 小试牛刀
-* [力扣104题. 二叉树的最大深度(简单)](docs/java/basis/why-there-only-value-passing-in-java.md)
+* [力扣104题. 二叉树的最大深度(简单)](doc/primarySchool/Q_104.md)
 * [力扣543题. 二叉树的直径(简单)](docs/java/basis/why-there-only-value-passing-in-java.md)
 
 
