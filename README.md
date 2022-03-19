@@ -3,9 +3,9 @@
 > 记录下自己阅读《算法小抄》结合leetcode的刷题过程，图文解说。
 
 <div align="center">
-    <img src="https://img.shields.io/github/stars/dartsmen1114/Algorithm" alt="stars" />
-    <img src="https://img.shields.io/github/forks/dartsmen1114/Algorithm" alt="forks" />
-    <img src="https://img.shields.io/github/issues/dartsmen1114/Algorithm" alt="issues" />
+    <p>
+      <img src="./resources/coffee.jpg" style="margin: 0 auto; width: 850px;" />
+    </p>
 </div>
 
 > 跟着《算法小抄》走，首先，你要熟悉二叉树，要对前序遍历，中序遍历，后序遍历了如指掌，几乎所有的算法都是从二叉树的遍历演变而来。
