@@ -21,6 +21,7 @@
 * [力扣226题. 反转二叉树(简单)](doc/primarySchool/Q_226.md)
 * [力扣116题. 填充每个节点的下一个右侧节点指针(中等)](doc/primarySchool/Q_116.md)
 * [力扣114题. 二叉树展开为链表(中等)](doc/primarySchool/Q_114.md)
+* [力扣654题. 最大二叉树(中等)](doc/primarySchool/Q_654.md)
 
 
 
