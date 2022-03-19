@@ -17,6 +17,7 @@
 * [力扣104题. 二叉树的最大深度(简单)](doc/primarySchool/Q_104.md)
 * [力扣543题. 二叉树的直径(简单)](doc/primarySchool/Q_543.md)
 * [力扣226题. 反转二叉树(简单)](doc/primarySchool/Q_226.md)
+* [力扣116题. 填充每个节点的下一个右侧节点指针(中等)](doc/primarySchool/Q_116.md)
 
 
 
