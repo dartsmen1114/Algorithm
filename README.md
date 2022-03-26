@@ -35,6 +35,7 @@
 * [力扣23题. 合并K个升序链表(困难)](doc/primarySchool/Q_23.md)
 * [力扣19题. 删除链表的倒数第 N 个结点(中等)](doc/primarySchool/Q_19.md)
 * [力扣876题. 链表的中间结点(简单)](doc/primarySchool/Q_876.md)
+* [力扣160题. 相交链表(简单)](doc/primarySchool/Q_160.md)
 ### 不定期更新中😊
 
 
