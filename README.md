@@ -36,6 +36,7 @@
 * [力扣19题. 删除链表的倒数第 N 个结点(中等)](doc/primarySchool/Q_19.md)
 * [力扣876题. 链表的中间结点(简单)](doc/primarySchool/Q_876.md)
 * [力扣160题. 相交链表(简单)](doc/primarySchool/Q_160.md)
+* [力扣206题. 反转链表(简单)](doc/primarySchool/Q_206.md)
 ### 不定期更新中😊
 
 
