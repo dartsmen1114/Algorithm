@@ -38,6 +38,7 @@
 * [力扣160题. 相交链表(简单)](doc/primarySchool/Q_160.md)
 * [力扣206题. 反转链表(简单)](doc/primarySchool/Q_206.md)
 * [力扣92题. 反转链表 II(中等)](doc/primarySchool/Q_92.md)
+* [力扣25题. K 个一组翻转链表(困难)](doc/primarySchool/Q_25.md)
 ### 不定期更新中😊
 
 
