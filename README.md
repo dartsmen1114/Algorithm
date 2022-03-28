@@ -13,7 +13,20 @@
 > 刷题的话还是要先刷二叉树，循序渐进。
 
 
-## 循序渐进第一步（二叉树刷题）
+## 循序渐进第一步（熟悉链表）
+
+### 链表回顾，为后续练习快排，归并做准备,相对比树好理解
+* [力扣21题. 合并两个有序链表(简单)](doc/primarySchool/Q_21.md)
+* [力扣23题. 合并K个升序链表(困难)](doc/primarySchool/Q_23.md)
+* [力扣19题. 删除链表的倒数第 N 个结点(中等)](doc/primarySchool/Q_19.md)
+* [力扣876题. 链表的中间结点(简单)](doc/primarySchool/Q_876.md)
+* [力扣160题. 相交链表(简单)](doc/primarySchool/Q_160.md)
+* [力扣206题. 反转链表(简单)](doc/primarySchool/Q_206.md)
+* [力扣92题. 反转链表 II(中等)](doc/primarySchool/Q_92.md)
+* [力扣25题. K 个一组翻转链表(困难)](doc/primarySchool/Q_25.md)
+
+
+## 循序渐进第二步 (树)
 
 ### 小试牛刀
 * [力扣104题. 二叉树的最大深度(简单)](doc/primarySchool/Q_104.md)
@@ -28,17 +41,9 @@
 * [力扣106题. 从中序与后序遍历序列构造二叉树(中等)](doc/primarySchool/Q_106.md)
 * [力扣889题. 根据前序和后序遍历构造二叉树(中等)](doc/primarySchool/Q_889.md)
 
-## 山脚小歇第二部 (链表)
 
-### 链表回顾，为后续练习快排，归并做准备,相对比树好理解
-* [力扣21题. 合并两个有序链表(简单)](doc/primarySchool/Q_21.md)
-* [力扣23题. 合并K个升序链表(困难)](doc/primarySchool/Q_23.md)
-* [力扣19题. 删除链表的倒数第 N 个结点(中等)](doc/primarySchool/Q_19.md)
-* [力扣876题. 链表的中间结点(简单)](doc/primarySchool/Q_876.md)
-* [力扣160题. 相交链表(简单)](doc/primarySchool/Q_160.md)
-* [力扣206题. 反转链表(简单)](doc/primarySchool/Q_206.md)
-* [力扣92题. 反转链表 II(中等)](doc/primarySchool/Q_92.md)
-* [力扣25题. K 个一组翻转链表(困难)](doc/primarySchool/Q_25.md)
+
+
 ### 不定期更新中😊
 
 
