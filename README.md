@@ -37,6 +37,7 @@
 * [力扣303题. 区域和检索 - 数组不可变(简单)](doc/primarySchool/Q_303.md)
 * [力扣304题. 二维区域和检索 - 矩阵不可变(中等)](doc/primarySchool/Q_304.md)
 * [力扣560题. 和为 K 的子数组(中等)](doc/primarySchool/Q_560.md)
+* [力扣370题. 区间加法(中等)](doc/primarySchool/Q_370.md)
 
 
 
