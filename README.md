@@ -40,6 +40,7 @@
 * [力扣370题. 区间加法(中等)](doc/primarySchool/Q_370.md)
 * [力扣1109题. 航班预订统计(中等)](doc/primarySchool/Q_1109.md)
 * [力扣1094题.拼车(中等)](doc/primarySchool/Q_1094.md)
+* [力扣48题. 旋转图像(中等)](doc/primarySchool/Q_48.md)
 
 
 ## 循序渐进第三步 (树)
