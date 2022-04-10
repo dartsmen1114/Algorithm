@@ -19,7 +19,9 @@
 * [力扣344题. 反转字符串(简单)](doc/primarySchool/Q_344.md)
 * [力扣5题. 最长回文子串(中等)](doc/primarySchool/Q_5.md)
 
-## 循序渐进第一步（链表）
+## 循序渐进第一步（刷数据结构）
+
+### 链表算法
 
 * [力扣21题. 合并两个有序链表(简单)](doc/primarySchool/Q_21.md)
 * [力扣23题. 合并K个升序链表(困难)](doc/primarySchool/Q_23.md)
@@ -31,7 +33,7 @@
 * [力扣25题. K 个一组翻转链表(困难)](doc/primarySchool/Q_25.md)
 * [力扣234题. 回文链表(简单)](doc/primarySchool/Q_234.md)
 
-## 循序渐进第二步 (数组)
+### 数组算法
 
 * [力扣303题. 区域和检索 - 数组不可变(简单)](doc/primarySchool/Q_303.md)
 * [力扣304题. 二维区域和检索 - 矩阵不可变(中等)](doc/primarySchool/Q_304.md)
