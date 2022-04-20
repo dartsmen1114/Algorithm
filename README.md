@@ -44,6 +44,9 @@
 * [力扣48题. 旋转图像(中等)](doc/primarySchool/Q_48.md)
 * [力扣54题. 螺旋矩阵(中等)](doc/primarySchool/Q_54.md)
 * [力扣59题. 螺旋矩阵 II(中等)](doc/primarySchool/Q_59.md)
+
+#### 滑动窗口
+
 * [力扣76题. 最小覆盖子串(困难)](doc/primarySchool/Q_76.md)
 * [力扣567题. 字符串的排列(中等)](doc/primarySchool/Q_567.md)
 * [力扣438题. 找到字符串中所有字母异位词(中等)](doc/primarySchool/Q_438.md)
