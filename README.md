@@ -45,6 +45,7 @@
 * [力扣54题. 螺旋矩阵(中等)](doc/primarySchool/Q_54.md)
 * [力扣59题. 螺旋矩阵 II(中等)](doc/primarySchool/Q_59.md)
 * [力扣76题. 最小覆盖子串(困难)](doc/primarySchool/Q_76.md)
+* [力扣567题. 字符串的排列(中等)](doc/primarySchool/Q_567.md)
 
 
 ## 循序渐进第三步 (树)
