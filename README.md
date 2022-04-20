@@ -41,6 +41,9 @@
 * [力扣370题. 区间加法(中等)](doc/primarySchool/Q_370.md)
 * [力扣1109题. 航班预订统计(中等)](doc/primarySchool/Q_1109.md)
 * [力扣1094题.拼车(中等)](doc/primarySchool/Q_1094.md)
+
+#### 二维数组花式遍历
+
 * [力扣48题. 旋转图像(中等)](doc/primarySchool/Q_48.md)
 * [力扣54题. 螺旋矩阵(中等)](doc/primarySchool/Q_54.md)
 * [力扣59题. 螺旋矩阵 II(中等)](doc/primarySchool/Q_59.md)
