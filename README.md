@@ -65,10 +65,9 @@
 * [力扣528题. 按权重随机选择(中等)](doc/primarySchool/Q_528.md)
 
 
+### 二叉树
 
-## 循序渐进第三步 (树)
-
-### 小试牛刀
+#### 小手牛刀
 * [力扣104题. 二叉树的最大深度(简单)](doc/primarySchool/Q_104.md)
 * [力扣543题. 二叉树的直径(简单)](doc/primarySchool/Q_543.md)
 * [力扣226题. 反转二叉树(简单)](doc/primarySchool/Q_226.md)
