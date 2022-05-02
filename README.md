@@ -67,15 +67,17 @@
 
 ### 二叉树
 
-#### 小手牛刀
+#### 纲领篇
 * [力扣104题. 二叉树的最大深度(简单)](doc/primarySchool/Q_104.md)
 * [力扣543题. 二叉树的直径(简单)](doc/primarySchool/Q_543.md)
+
+#### 思路篇
 * [力扣226题. 反转二叉树(简单)](doc/primarySchool/Q_226.md)
 * [力扣116题. 填充每个节点的下一个右侧节点指针(中等)](doc/primarySchool/Q_116.md)
 * [力扣114题. 二叉树展开为链表(中等)](doc/primarySchool/Q_114.md)
 * [力扣654题. 最大二叉树(中等)](doc/primarySchool/Q_654.md)
 
-### 经典面试题
+#### 构造篇
 * [力扣105题. 从前序与中序遍历序列构造二叉树(中等)](doc/primarySchool/Q_105.md)
 * [力扣106题. 从中序与后序遍历序列构造二叉树(中等)](doc/primarySchool/Q_106.md)
 * [力扣889题. 根据前序和后序遍历构造二叉树(中等)](doc/primarySchool/Q_889.md)
